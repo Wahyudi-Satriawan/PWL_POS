@@ -27,3 +27,4 @@ return new class extends Migration
         Schema::dropIfExists('m_level');
     }
 };
+//Praktikum 2.1
